@@ -10,7 +10,7 @@ public class Medico extends Empleado {
     private int numeroPacientesAtendidos;
     private double valorConsulta;
 
-    // Constructor
+
     public Medico(String cedula, String nombre, int edad, String telefono, String correo,
                   String especialidad, int numeroPacientesAtendidos, double valorConsulta) {
         super(cedula, nombre, edad, telefono, correo);
