@@ -10,7 +10,7 @@ public class Administrativo extends Empleado {
     private double horasTrabajadas;
     private double valorHora;
 
-    // Constructor
+
     public Administrativo(String cedula, String nombre, int edad, String telefono, String correo,
                           String departamento, double horasTrabajadas, double valorHora) {
         super(cedula, nombre, edad, telefono, correo);
