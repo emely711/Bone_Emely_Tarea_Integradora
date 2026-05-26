@@ -22,7 +22,7 @@ src/
 ```
 ---
 Pilares de POO aplicados
-Herencia
+Herenciaa
 `Medico` y `Administrativo` heredan de `Empleado`. Comparten cédula, nombre, edad, teléfono y correo. Cada subclase agrega atributos propios (especialidad, departamento, etc.).
 Encapsulamiento
 Todos los atributos de `Empleado` son `private`. El acceso se realiza únicamente a través de getters y setters públicos, protegiendo la integridad de los datos.
